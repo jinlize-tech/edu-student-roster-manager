@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-042",
+  "repository_name": "edu-student-roster-manager",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-student-roster-manager-v1.0.0.zip",
+  "sha256": "44F791CD70518A786C92CA6F2AAED5E4ED18DF1FD7F19020E79ADDB6C7D3BE4F",
+  "bytes": 4817,
+  "entries": [
+    "edu-student-roster-manager/SKILL.md",
+    "edu-student-roster-manager/references/DOMAIN_GUIDE.md",
+    "edu-student-roster-manager/references/EXAMPLES.md",
+    "edu-student-roster-manager/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:20:09.9022427+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
