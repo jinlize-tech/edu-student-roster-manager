@@ -6,19 +6,37 @@
   "repository_name": "edu-student-roster-manager",
   "product_type": "Skill",
   "category": "04 教务运营中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-student-roster-manager-v1.0.0.zip",
+  "baseline_commit": "a6a87da50fcf9b682e69f751e18e645c0d574819",
+  "package_path": "dist/edu-student-roster-manager-v1.0.1.zip",
+  "previous_package_path": "dist/edu-student-roster-manager-v1.0.0.zip",
+  "previous_package_sha256": "44F791CD70518A786C92CA6F2AAED5E4ED18DF1FD7F19020E79ADDB6C7D3BE4F",
   "calculator": false,
   "core_input": "学员基础信息、班型、报读课程、有效期和学校规则",
   "main_output": "名册模板、字段校验、重复/缺失清单、变更记录和隐私提示",
+  "main_output_fields": [
+    "名册模板",
+    "字段校验",
+    "重复/缺失清单",
+    "变更记录和隐私提示"
+  ],
   "package_entries": [
     "edu-student-roster-manager/SKILL.md",
     "edu-student-roster-manager/references/DOMAIN_GUIDE.md",
     "edu-student-roster-manager/references/EXAMPLES.md",
-    "edu-student-roster-manager/templates/OUTPUT_TEMPLATE.md"
+    "edu-student-roster-manager/templates/OUTPUT_TEMPLATE.md",
+    "edu-student-roster-manager/README.md",
+    "edu-student-roster-manager/USAGE.md",
+    "edu-student-roster-manager/LICENSE",
+    "edu-student-roster-manager/THIRD_PARTY_NOTICES.md",
+    "edu-student-roster-manager/scripts/validate_input.js"
   ]
 }
