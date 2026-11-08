@@ -1,0 +1,11 @@
+{
+  "scenario_name": "incomplete",
+  "business_context": "用户在学员名册管理任务开始阶段只提供了少量资料。",
+  "inputs": {
+    "学员基础信息": "标准合成场景｜30名脱敏学生编号S001-S030（合成名单）",
+    "班型": "标准合成场景｜学员名册管理的班型：已按合成业务口径准备"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
